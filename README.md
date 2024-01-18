@@ -1,15 +1,11 @@
-
 # Hi, I'm Abdelrahman Alaa! 👋
-
 
 ## 🚀 About Me
 "I am a recent graduate and I am interested in the field of Business Intelligence. I aspire to become a BI Developer."
 
 ## 🛠 Skills
-Programming languages(SQL, Python), Relational Database (My SQL)
-Data Analysis (Data cleaning, exploration,visualization, statistical modeling),Visualization Tools(IBM Cognos,Google Locker),
-Excel, Power Bi, Statistics 
-
+SQL, Python, Relational Database Visualization Tools(IBM Cognos,Google Locker),Excel, Power Bi, Statistics,
+Agile methodology 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-alaa-28069a252/)
